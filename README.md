@@ -45,17 +45,6 @@ I’m always open to learning, collaborating, and contributing to impactful proj
 
 ---
 
-### 📊 Data Science & Libraries
-![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/seaborn-lightblue?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-yellow?style=for-the-badge&logo=scikitlearn)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-purple?style=for-the-badge)
-
----
-
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql)
 
