@@ -18,19 +18,6 @@ I enjoy solving real-world problems through data, algorithms, and AI while conti
 
 ---
 
-
-# Current Focus
-
-- 📚 Strengthening Data Structures & Algorithms using Python
-- 🤖 Building Machine Learning and Deep Learning projects
-- 👁️ Exploring Computer Vision applications
-- 💬 Learning Natural Language Processing
-- 🧠 Studying Large Language Models (LLMs)
-- ⚡ Developing APIs using FastAPI
-- 🚀 Learning MLOps and AI model deployment
-
----
-
 # Let's Connect
 
 I'm always interested in learning, collaborating on AI/ML projects, and contributing to open-source.
