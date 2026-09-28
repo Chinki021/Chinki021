@@ -1,4 +1,4 @@
-# Hi, I'm Chinki Raj 👋
+# Hi, I'm Chinki Raj 👋 
 
 ### Computer Science & Engineering (AI & ML) Student
 
